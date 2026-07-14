@@ -1,1 +1,1 @@
-This repo is just a collection of random attempts, drafts, and experiments.
+Notebooks made from different books, repos and online lectures
